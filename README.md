@@ -57,6 +57,16 @@ scp user@ip_of_desktop:/home/user/q563_coffee .
 
 [![q563_coffee](https://img.youtube.com/vi/ssdR8kY_3K8/0.jpg)](https://www.youtube.com/watch?v=ssdR8kY_3K8)   
 
+A referenced coffee machine example come from Qt5.12.10. Unfortunately, it can not be compiled successfully with Qt5.6.3.
+
+[![q51210_coffee](https://img.youtube.com/vi/it3XaNYqQ_c/0.jpg)](https://www.youtube.com/watch?v=it3XaNYqQ_c)   
+
+
+
+
+
+
+
 
 
 
