@@ -33,7 +33,10 @@ If you installed multiple versions of Qt creator, before the running of another 
 
 ## 2. Development flow 
 
-For Windows version, we only to build and run desktop version to make sure everything goes well. 
+![Qt2RZG2L](./images/Qt2RZG2L.jpg)
+
+
+For Windows version, we only need to build and run desktop version to make sure everything goes well. 
 
 For Linux version, we can build and run desktop version for most of the time. Then switch to RZG2L kits, then build and run the executable on RZG2L for confirmation.
 
@@ -60,6 +63,26 @@ scp user@ip_of_desktop:/home/user/q563_coffee .
 A referenced coffee machine example come from Qt5.12.10. Unfortunately, it can not be compiled successfully with Qt5.6.3.
 
 [![q51210_coffee](https://img.youtube.com/vi/it3XaNYqQ_c/0.jpg)](https://www.youtube.com/watch?v=it3XaNYqQ_c)   
+
+## 3. QtQuick version
+
+Since we are focus on smart devices or home appliance development, Qt Quick is more suitable than Qt Widgets. 
+
+In Qt 5.6.3, when creating a new project, choose Applications/Qt Quick Controls 2 Application.
+
+The qml file need to specify the version of QtQuick Controls and other components, the followings list what I know so far. 
+
+import QtQuick 2.6
+
+import QtQuick.Controls 1.4
+
+import QtQuick.Dialogs 1.2
+
+import QtQuick.Controls.Styles 1.4
+
+import QtQuick.Layouts 1.1
+
+
 
 
 
