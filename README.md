@@ -23,7 +23,7 @@ After the installation of Qt5.6.3, please follow the guide to install the extra 
 
 http://moil.caece.net/%e5%9c%a8-ubuntu-22-04-%e4%b8%8a%e5%bb%ba%e7%ab%8b-renesas-rz-g2l-%e7%9a%84%e8%b7%a8%e5%b9%b3%e5%8f%b0-qt-%e9%96%8b%e7%99%bc%e7%92%b0%e5%a2%83/
 
-Please noted, the Qt version 5.12.10 in the above guide is a little different. both of them can be used. Newer Qt5.12.10 come with better Example projects, however, compile our project in the older Qt5.6.3 ensure the final executable can successfully run on the target board.     
+Please noted, the inferface of Qt version 5.12.10 in the above guide is only a little different with Qt5.6.3. both Qt versions can be used. Newer Qt5.12.10 come with better Example projects, however, compile project in the older Qt5.6.3 ensure the final executable can successfully run on the target board.     
 
 If you installed multiple versions of Qt creator, before the running of another version, please make a copy of the old QtProject folder under:
 
@@ -55,7 +55,7 @@ scp user@ip_of_desktop:/home/user/q563_coffee .
 
 ./q563_coffee
 
-   
+[![q563_coffee](https://img.youtube.com/vi/ssdR8kY_3K8/0.jpg)](https://www.youtube.com/watch?v=ssdR8kY_3K8)   
 
 
 
