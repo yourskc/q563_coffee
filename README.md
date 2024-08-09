@@ -60,7 +60,12 @@ scp user@ip_of_desktop:/home/user/q563_coffee .
 
 [![q563_coffee](https://img.youtube.com/vi/ssdR8kY_3K8/0.jpg)](https://www.youtube.com/watch?v=ssdR8kY_3K8)   
 
-A referenced coffee machine example come from Qt5.12.10. Unfortunately, it can not be compiled successfully with Qt5.6.3.
+A referenced coffee machine example originally come from Qt5.12.10 Examples. Please reference to our version,
+
+moil_coffee ( Private repo ):
+
+https://github.com/yourskc/moil_coffee
+
 
 [![q51210_coffee](https://img.youtube.com/vi/it3XaNYqQ_c/0.jpg)](https://www.youtube.com/watch?v=it3XaNYqQ_c)   
 
@@ -68,13 +73,15 @@ A referenced coffee machine example come from Qt5.12.10. Unfortunately, it can n
 
 Since we are focus on smart devices or home appliance development, Qt Quick is more suitable than Qt Widgets. 
 
-In Qt 5.6.3, when creating a new project, choose Applications/Qt Quick Controls 2 Application.
+In Qt 5.6.3, when creating a new project, choose Applications/Qt Quick Controls Application.
 
-The qml file need to specify the version of QtQuick Controls and other components, the followings list what I know so far. 
+<img src="images/p010.png">
+
+In the qml file, we need to specify the version of QtQuick Controls and other components, the followings list the maximum versions that can be used in Qt5.6.3. 
 
 import QtQuick 2.6
 
-import QtQuick.Controls 1.4
+import QtQuick.Controls 1.5
 
 import QtQuick.Dialogs 1.2
 
