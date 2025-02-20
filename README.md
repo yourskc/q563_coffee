@@ -62,7 +62,7 @@ scp user@ip_of_desktop:/home/user/q563_coffee .
 
 A referenced coffee machine example originally come from Qt5.12.10 Examples. Please reference to our version,
 
-moil_coffee ( Private repo ):
+moil_coffee repo :
 
 https://github.com/yourskc/moil_coffee
 
