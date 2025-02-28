@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/coffee01.png</file>
+        <file>images/icon-back.png</file>
+        <file>images/icon-go.png</file>
+        <file>Page1_1.qml</file>
+        <file>Page1_2.qml</file>
+        <file>Page1_3.qml</file>
+        <file>Page2_1.qml</file>
+        <file>GridOne.qml</file>
+        <file>UpperBtns.qml</file>
+        <file>StackView1.qml</file>
+        <file>StackView2.qml</file>
+        <file>images/coffee02.png</file>
+        <file>Coffee1-1.qml</file>
+        <file>Page2_2.qml</file>
+        <file>GridView_1.qml</file>
+        <file>GridView_2.qml</file>
+        <file>videos/coffee_milk1.mp4</file>
+        <file>videos/coffee_milk2.mp4</file>
+        <file>videos/coffee_milk3.mp4</file>
+        <file>images/coffee_p01.png</file>
+        <file>images/coffee_p02.png</file>
+        <file>images/coffee_p03.png</file>
+        <file>images/coffee_p04.png</file>
+        <file>Coffee1-2.qml</file>
+        <file>Coffee1-3.qml</file>
+        <file>images/coffee_p02s.png</file>
+        <file>images/coffee_p03s.png</file>
+    </qresource>
+</RCC>
