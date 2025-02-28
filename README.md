@@ -75,11 +75,11 @@ https://github.com/yourskc/moil_coffee
 
 Since we focus on smart devices and home appliance development, Qt Quick is more suitable than Qt Widgets. 
 
-In Qt 5.6.3, when we create a new project, choose Applications/Qt Quick Controls Application.
+To create a new project, choose Applications/Qt Quick Controls Application.
 
 <img src="images/p010.png">
 
-When we create a new single QML File, choose Qr/QML File(Qt Quick 2)
+To create a new single QML File, choose Qr/QML File(Qt Quick 2)
 
 <img src="images/p011.png">
 
